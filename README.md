@@ -1,6 +1,3 @@
-# html5
-html 基础
-
 <!DOCTYPE html>
 
 <html lang="en">
